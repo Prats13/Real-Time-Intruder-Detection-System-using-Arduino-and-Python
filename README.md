@@ -26,6 +26,9 @@ In this project we are going to make a real time Intruder Detection System using
   E.  Connect the the arduino board as per the circuit diagram provided.
 
   F. Finally, we run the intruder_detection.ipynb file to get the outputs.
+  
+**For additional information please refer to the project report attached in the resources that you will be downloading 'PROJECT REPORT.pdf'**
+
 # Final images of the output generated
   ** Final model **
   
