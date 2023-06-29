@@ -35,3 +35,6 @@ In this project we are going to make a real time Intruder Detection System using
   
   ![notification screen shot](https://github.com/Prats13/Real-Time-Intruder-Detection-System-using-Arduino-and-Python/assets/93511663/f7a84ac9-f63f-4fbf-a161-86dbafe356b0)
 
+  ** Email notification images **
+  
+  ![email](https://github.com/Prats13/Real-Time-Intruder-Detection-System-using-Arduino-and-Python/assets/93511663/2069b07a-f539-4e37-94eb-4bbaf080b0b0)
